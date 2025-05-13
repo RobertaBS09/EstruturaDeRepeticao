@@ -11,7 +11,7 @@ public class Exercicio011 {
         contador=1;
 
         while (contador <=15){
-            System.out.println("Digite um Valor --->");
+            System.out.println("Digiite um Valor --->");
             valor=sc.nextInt();
             if (contador ==1 || valor > maior) {
                 maior = valor;

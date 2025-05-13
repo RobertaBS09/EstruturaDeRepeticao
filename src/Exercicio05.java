@@ -8,7 +8,7 @@ public class Exercicio05 {
         int x=1;
         int y=1;
 
-        System.out.print("Digite a quantidade de termos-->");
+        System.out.print("Digiite a quantidade de termos-->");
         termo =sc.nextInt();
 
         if (termo==1){

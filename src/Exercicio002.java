@@ -9,7 +9,7 @@ public class Exercicio002 {
         contador = 0;
 
         while (resposta == 1) {
-            System.out.print("Digite um valor para a taboada:");
+            System.out.print("Digiite um valor para a taboada:");
             valor = sc.nextInt();
             contador=0;
             while (contador <= 10) {
